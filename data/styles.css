@@ -74,6 +74,8 @@
 }
 .table_cell {
 }
+.menu_item {
+}
 ._便签1 {
   text-align:left;
 }
@@ -149,5 +151,7 @@
 }
 .box_31 {
   font-size:12px;
+}
+.icon {
 }
 textarea, select, input, button, div, svg { outline: none; }
