@@ -1,6 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="70px" height="2px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -1004 -748 )">
-    <path d="M 0 0.5  L 69 0.5  " stroke-width="1" stroke-dasharray="0" stroke="rgba(227, 77, 89, 1)" fill="none" transform="matrix(1 0 0 1 1004 748 )" class="stroke" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="691px" height="220px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="345.7777777777778" y1="216.44827586206898" x2="345.7777777777778" y2="-0.33333333333332327" id="LinearGradient332">
+      <stop id="Stop333" stop-color="#ffffff" offset="0" />
+      <stop id="Stop334" stop-color="#81d3f8" stop-opacity="0.44313725490196076" offset="1" />
+    </linearGradient>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+  </defs>
+  <g transform="matrix(1 0 0 1 -382 -767 )">
+    <path d="M 0 220  L 0 0  L 691 0  L 691 220  L 0 220  Z M 0.49999999999999994 0  L 691 219.5  L 0.49999999999999994 219.5  L 0.49999999999999994 0  Z " fill-rule="nonzero" fill="url(#LinearGradient332)" stroke="none" transform="matrix(1 0 0 1 382 767 )" class="fill" />
+    <path d="M 691 219.5  L 0.49999999999999994 219.5  L 0.49999999999999994 0  " stroke-width="1" stroke-dasharray="0" stroke="rgba(170, 170, 170, 1)" fill="none" transform="matrix(1 0 0 1 382 767 )" class="stroke" />
   </g>
 </svg>

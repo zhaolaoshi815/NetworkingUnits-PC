@@ -1,13 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="60px" height="60px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip217">
-      <path d="M 0 30  C 0 13.2  13.2 0  30 0  C 46.800000000000004 0  60 13.2  60 30  C 60 46.800000000000004  46.800000000000004 60  30 60  C 13.2 60  0 46.800000000000004  0 30  Z " fill-rule="evenodd" />
-    </mask>
-  </defs>
-  <g transform="matrix(1 0 0 1 -870 -102 )">
-    <path d="M 0 30  C 0 13.2  13.2 0  30 0  C 46.800000000000004 0  60 13.2  60 30  C 60 46.800000000000004  46.800000000000004 60  30 60  C 13.2 60  0 46.800000000000004  0 30  Z " fill-rule="nonzero" fill="rgba(188, 235, 220, 1)" stroke="none" transform="matrix(1 0 0 1 870 102 )" class="fill" />
-    <path d="M 0 30  C 0 13.2  13.2 0  30 0  C 46.800000000000004 0  60 13.2  60 30  C 60 46.800000000000004  46.800000000000004 60  30 60  C 13.2 60  0 46.800000000000004  0 30  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(0, 82, 217, 0)" fill="none" transform="matrix(1 0 0 1 870 102 )" class="stroke" mask="url(#Clip217)" />
-  </g>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="115px" height="30px" viewBox="650 0 115 30" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 1 1  L 114 1  L 114 29  L 1 29  L 1 1  Z " fill-rule="nonzero" fill="rgba(242, 242, 242, 1)" stroke="none" transform="matrix(1 0 0 1 650 0 )" class="fill" />
+  <path d="M 0.5 1  L 0.5 29  " stroke-width="1" stroke-dasharray="0" stroke="rgba(255, 255, 255, 1)" fill="none" transform="matrix(1 0 0 1 650 0 )" class="stroke" />
+  <path d="M 0 0.5  L 115 0.5  " stroke-width="1" stroke-dasharray="0" stroke="rgba(255, 255, 255, 1)" fill="none" transform="matrix(1 0 0 1 650 0 )" class="stroke" />
+  <path d="M 114.5 1  L 114.5 29  " stroke-width="1" stroke-dasharray="0" stroke="rgba(255, 255, 255, 1)" fill="none" transform="matrix(1 0 0 1 650 0 )" class="stroke" />
+  <path d="M 0 29.5  L 115 29.5  " stroke-width="1" stroke-dasharray="0" stroke="rgba(255, 255, 255, 1)" fill="none" transform="matrix(1 0 0 1 650 0 )" class="stroke" />
 </svg>
